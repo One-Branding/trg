@@ -1,1 +1,1 @@
-# trg
+# The Restaurant Guild
